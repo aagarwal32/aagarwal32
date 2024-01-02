@@ -1,4 +1,4 @@
-Hi, I’m Arjun Agarwal! A 3rd-year computer science student at the University of South Florida. I have interests in everything tech, from current advancements with generative AI to electric cars. These cutting-edge technologies are what make me excited to pursue this field.
+Hi, I’m Arjun Agarwal! A 3rd-year computer science student at the University of South Florida. I have interests in everything tech, from current advancements with generative AI to AR/VR headsets. These cutting-edge technologies are what make me excited to pursue this field.
 
 - I'm currently learning:
   - HTML
