@@ -6,16 +6,16 @@ Hi, I’m Arjun Agarwal! A 3rd-year computer science student at the University o
   - JavaScript
   - mySQL
   - PHP
-<!-- 
+
 - Classes I'm taking Spring 2024:
   - Analysis of Algorithms
   - Computer Architecture and Lab
   - Natural Language Processing
-  - 
--->
+  - Database Design
+
 - In the future I also plan to learn:
   - Neural Networks
-  - Natural Language Processing (USF Elective Spring 2024)
+  - Natural Language Processing
   - PyTorch
   - TensorFlow
 
