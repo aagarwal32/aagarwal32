@@ -15,7 +15,7 @@ Hi, I’m Arjun Agarwal! A 3rd-year computer science student at the University o
 -->
 - In the future I also plan to learn:
   - Neural Networks
-  - Natural Language Processing (USF elective)
+  - Natural Language Processing (USF Elective Spring 2024)
   - PyTorch
   - TensorFlow
 
