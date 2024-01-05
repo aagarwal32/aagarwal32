@@ -4,7 +4,6 @@ Hi, I’m Arjun Agarwal! A 3rd-year computer science student at the University o
   - HTML
   - CSS
   - JavaScript
-  - mySQL
   - PHP
 
 - Classes I'm taking Spring 2024:
