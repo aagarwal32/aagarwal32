@@ -4,13 +4,12 @@ Hi, I’m Arjun Agarwal! A 3rd-year computer science student at the University o
   - HTML
   - CSS
   - JavaScript
-  - PHP
 
 - Classes I'm taking Spring 2024:
   - Analysis of Algorithms
   - Computer Architecture and Lab
-  - Natural Language Processing
-  - Database Design
+  - Intro to Artificial Intelligence
+  - Compilers
 
 - In the future I also plan to learn:
   - Neural Networks
