@@ -9,7 +9,7 @@ Hi, I’m Arjun Agarwal! A 3rd-year computer science student at the University o
   - Analysis of Algorithms
   - Computer Architecture and Lab
   - Intro to Artificial Intelligence
-  - Compilers
+  - Database Design
 
 - In the future I also plan to learn:
   - Neural Networks
