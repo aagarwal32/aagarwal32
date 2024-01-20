@@ -4,6 +4,7 @@ Hi, I’m Arjun Agarwal! A 3rd-year computer science student at the University o
   - HTML
   - CSS
   - JavaScript
+  - Flask framework for Python
 
 - Classes I'm taking Spring 2024:
   - Analysis of Algorithms
