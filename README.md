@@ -1,22 +1,18 @@
-Hi, I’m Arjun Agarwal! A 3rd-year computer science student at the University of South Florida. I have interests in everything tech, from current advancements with generative AI to AR/VR headsets. These cutting-edge technologies are what make me excited to pursue this field.
+Hello! I’m Arjun Agarwal, a senior computer science student at the University of South Florida. I enjoy expanding my skill set in this field, particularly by working on challenging and innovative projects. Some of these projects are visible here!
 
-- I'm currently learning:
-  - HTML
-  - CSS
-  - JavaScript
-  - Flask framework for Python
+Here’s a quick list of skills I’m actively learning and plan to learn soon:
 
-- Classes I'm taking Spring 2024:
-  - Analysis of Algorithms
-  - Computer Architecture and Lab
-  - Intro to Artificial Intelligence
-  - Database Design
-
-- In the future I also plan to learn:
-  - Neural Networks
-  - Natural Language Processing
-  - PyTorch
-  - TensorFlow
+Currently learning:
+- JavaScript
+- Node.js
+- PyTorch
+  
+Planning to learn:
+- React
+- Java
+- Big data technologies:
+  Hadoop, MapReduce, Spark, Hive, Impala, and Pig
+  (USF elective)
 
 <!---
 aagarwal32/aagarwal32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
