@@ -1,14 +1,10 @@
 Hello! I’m Arjun Agarwal, a senior computer science student at the University of South Florida. I enjoy expanding my skill set in this field, particularly by working on challenging and innovative projects. Some of these projects are visible here!
 
-Here’s a quick list of skills I’m actively learning and plan to learn soon:
+Here’s a quick list of skills I’m actively learning:
 
 Currently learning:
-- JavaScript
-- Node.js
-- PyTorch
-  
-Planning to learn:
 - React
+- Node.js
 - Java
 - Big data technologies:
   Hadoop, MapReduce, Spark, Hive, Impala, and Pig
