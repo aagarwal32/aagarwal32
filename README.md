@@ -3,9 +3,8 @@ Hello! I’m Arjun Agarwal, a senior computer science student at the University 
 Here’s a quick list of skills I’m actively learning:
 
 Currently learning:
+- Django
 - React
-- Node.js
-- Java
 - Big data technologies:
   Hadoop, MapReduce, Spark, Hive, Impala, and Pig
   (USF elective)
